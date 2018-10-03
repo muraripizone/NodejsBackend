@@ -1,0 +1,13 @@
+Revert "'testing_file'"
+
+This reverts commit 6529fec51f8282db75f4d0de0608db279d742191.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch gittest
+# Your branch is up to date with 'bhojrajP/gittest'.
+#
+# Changes to be committed:
+#	modified:   karma.conf.js
+#
